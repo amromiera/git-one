@@ -1,1 +1,4 @@
 "file1" "feature-1 modification"
+
+
+non-conflict change
